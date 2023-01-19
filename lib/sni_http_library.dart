@@ -8,7 +8,6 @@ import 'package:dio/src/adapters/io_adapter.dart'
     if (dart.library.html) 'package:dio/src/adapters/browser_adapter.dart';
 
 import 'package:flutter/foundation.dart';
-import 'package:get_it/get_it.dart';
 import 'package:model_factory/model_factory.dart';
 import 'package:retry/retry.dart';
 import 'package:web_socket_channel/web_socket_channel.dart';

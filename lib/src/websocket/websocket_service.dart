@@ -58,7 +58,6 @@ class WebsocketService {
       isConnected.value = false;
 
       String? token;
-      // TODO: make register auth
 
       // final hasAuth = GetIt.I.isRegistered<AuthService>();
       // if (hasAuth) {
